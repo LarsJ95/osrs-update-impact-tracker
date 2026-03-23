@@ -1,0 +1,41 @@
+name: Collect Update Impact
+
+on:
+  schedule:
+    - cron: '0 12 * * 4'
+  workflow_dispatch:
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm ci
+
+      - run: npm run collect
+
+      - name: Commit and push if data changed
+        run: |
+          cd data
+          if git diff --quiet && git diff --cached --quiet; then
+            echo "No data changes to commit"
+          else
+            cd ..
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            DATE=$(date -u +%Y-%m-%d)
+            git add data/
+            git commit -m "data: add update impact for ${DATE}"
+            git push
+          fi
