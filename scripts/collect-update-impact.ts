@@ -135,7 +135,8 @@ async function fetchJson<T>(url: string, useUserAgent = false): Promise<T> {
 
 // ─── Step A: Fetch recent updates from Wiki ──────────────────────────
 async function fetchRecentUpdates(): Promise<WikiCategoryMember[]> {
-  const url = `${WIKI_API}?action=query&list=categorymembers&cmtitle=Category:Game_updates&cmlimit=10&cmsort=timestamp&cmdir=desc&format=json`;
+  const year = new Date().getFullYear();
+  const url = `${WIKI_API}?action=query&list=categorymembers&cmtitle=Category:${year}_updates&cmlimit=15&cmsort=timestamp&cmdir=desc&format=json`;
   const data = await fetchJson<{
     query: { categorymembers: WikiCategoryMember[] };
   }>(url);

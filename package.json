@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "collect": "tsx scripts/collect-update-impact.ts"
+    "collect": "node scripts/run-once.mjs"
   },
   "devDependencies": {
     "@types/node": "^25.5.0",
