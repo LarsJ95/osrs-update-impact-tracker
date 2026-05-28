@@ -1,0 +1,2714 @@
+{
+  "title": "Rubium Mining & Smithing Changes",
+  "date": "2026-05-22",
+  "updateTimestamp": 1779446780,
+  "collectedAt": "2026-05-28T15:30:28.893Z",
+  "topMovers": {
+    "after1h": [
+      {
+        "itemId": 5106,
+        "name": "Poison ivy seed",
+        "baselinePrice": 12,
+        "price": 34,
+        "deltaAbs": 23,
+        "deltaPct": 195.65,
+        "volume": 62
+      },
+      {
+        "itemId": 1191,
+        "name": "Iron kiteshield",
+        "baselinePrice": 79,
+        "price": 139,
+        "deltaAbs": 61,
+        "deltaPct": 77.07,
+        "volume": 68
+      },
+      {
+        "itemId": 347,
+        "name": "Herring",
+        "baselinePrice": 19,
+        "price": 29,
+        "deltaAbs": 11,
+        "deltaPct": 56.76,
+        "volume": 232
+      },
+      {
+        "itemId": 5312,
+        "name": "Acorn",
+        "baselinePrice": 53,
+        "price": 83,
+        "deltaAbs": 30,
+        "deltaPct": 56.6,
+        "volume": 207
+      },
+      {
+        "itemId": 12776,
+        "name": "Carrallanger teleport (tablet)",
+        "baselinePrice": 1801,
+        "price": 2657,
+        "deltaAbs": 856,
+        "deltaPct": 47.54,
+        "volume": 174
+      },
+      {
+        "itemId": 10147,
+        "name": "Red salamander",
+        "baselinePrice": 33,
+        "price": 48,
+        "deltaAbs": 15,
+        "deltaPct": 45.45,
+        "volume": 53
+      },
+      {
+        "itemId": 2313,
+        "name": "Pie dish",
+        "baselinePrice": 11,
+        "price": 15,
+        "deltaAbs": 5,
+        "deltaPct": 42.86,
+        "volume": 10785
+      },
+      {
+        "itemId": 31045,
+        "name": "Bale of flax",
+        "baselinePrice": 107,
+        "price": 152,
+        "deltaAbs": 45,
+        "deltaPct": 41.59,
+        "volume": 1298
+      },
+      {
+        "itemId": 1077,
+        "name": "Black platelegs",
+        "baselinePrice": 1106,
+        "price": 1515,
+        "deltaAbs": 410,
+        "deltaPct": 37.04,
+        "volume": 100
+      },
+      {
+        "itemId": 23709,
+        "name": "Divine super strength potion(4)",
+        "baselinePrice": 5775,
+        "price": 7449,
+        "deltaAbs": 1675,
+        "deltaPct": 29,
+        "volume": 350
+      },
+      {
+        "itemId": 32047,
+        "name": "Teak hull parts",
+        "baselinePrice": 767,
+        "price": 987,
+        "deltaAbs": 221,
+        "deltaPct": 28.77,
+        "volume": 352
+      },
+      {
+        "itemId": 1339,
+        "name": "Steel warhammer",
+        "baselinePrice": 61,
+        "price": 76,
+        "deltaAbs": 15,
+        "deltaPct": 24.79,
+        "volume": 246
+      },
+      {
+        "itemId": 31443,
+        "name": "Teleport to boat",
+        "baselinePrice": 864,
+        "price": 1078,
+        "deltaAbs": 214,
+        "deltaPct": 24.77,
+        "volume": 749
+      },
+      {
+        "itemId": 6289,
+        "name": "Snakeskin",
+        "baselinePrice": 17,
+        "price": 21,
+        "deltaAbs": 4,
+        "deltaPct": 24.24,
+        "volume": 27386
+      },
+      {
+        "itemId": 1171,
+        "name": "Wooden shield",
+        "baselinePrice": 156,
+        "price": 192,
+        "deltaAbs": 36,
+        "deltaPct": 23.15,
+        "volume": 79
+      },
+      {
+        "itemId": 5982,
+        "name": "Watermelon",
+        "baselinePrice": 16,
+        "price": 20,
+        "deltaAbs": 4,
+        "deltaPct": 21.88,
+        "volume": 5028
+      },
+      {
+        "itemId": 1325,
+        "name": "Steel scimitar",
+        "baselinePrice": 56,
+        "price": 68,
+        "deltaAbs": 12,
+        "deltaPct": 21.43,
+        "volume": 253
+      },
+      {
+        "itemId": 30619,
+        "name": "Bounty supply crate (anglerfish)",
+        "baselinePrice": 3899,
+        "price": 4719,
+        "deltaAbs": 821,
+        "deltaPct": 21.05,
+        "volume": 227
+      },
+      {
+        "itemId": 1063,
+        "name": "Leather vambraces",
+        "baselinePrice": 15,
+        "price": 18,
+        "deltaAbs": 3,
+        "deltaPct": 20.69,
+        "volume": 140
+      },
+      {
+        "itemId": 5500,
+        "name": "Pineapple sapling",
+        "baselinePrice": 254,
+        "price": 305,
+        "deltaAbs": 52,
+        "deltaPct": 20.32,
+        "volume": 123
+      },
+      {
+        "itemId": 12782,
+        "name": "Senntisten teleport (tablet)",
+        "baselinePrice": 1029,
+        "price": 1206,
+        "deltaAbs": 177,
+        "deltaPct": 17.21,
+        "volume": 125
+      },
+      {
+        "itemId": 31235,
+        "name": "Gryphon feather",
+        "baselinePrice": 33,
+        "price": 39,
+        "deltaAbs": 6,
+        "deltaPct": 16.67,
+        "volume": 18430
+      },
+      {
+        "itemId": 24953,
+        "name": "Waterbirth teleport (tablet)",
+        "baselinePrice": 835,
+        "price": 973,
+        "deltaAbs": 139,
+        "deltaPct": 16.6,
+        "volume": 111
+      },
+      {
+        "itemId": 29307,
+        "name": "Quetzal feed",
+        "baselinePrice": 3831,
+        "price": 4463,
+        "deltaAbs": 632,
+        "deltaPct": 16.5,
+        "volume": 497
+      },
+      {
+        "itemId": 327,
+        "name": "Raw sardine",
+        "baselinePrice": 26,
+        "price": 30,
+        "deltaAbs": 4,
+        "deltaPct": 15.69,
+        "volume": 449
+      },
+      {
+        "itemId": 32005,
+        "name": "Steel keel parts",
+        "baselinePrice": 3261,
+        "price": 3766,
+        "deltaAbs": 505,
+        "deltaPct": 15.49,
+        "volume": 162
+      },
+      {
+        "itemId": 12410,
+        "name": "Iorwerth camp teleport",
+        "baselinePrice": 3354,
+        "price": 3814,
+        "deltaAbs": 460,
+        "deltaPct": 13.71,
+        "volume": 288
+      },
+      {
+        "itemId": 9193,
+        "name": "Dragonstone bolt tips",
+        "baselinePrice": 552,
+        "price": 621,
+        "deltaAbs": 70,
+        "deltaPct": 12.6,
+        "volume": 40175
+      },
+      {
+        "itemId": 2493,
+        "name": "Blue d'hide chaps",
+        "baselinePrice": 2039,
+        "price": 2292,
+        "deltaAbs": 253,
+        "deltaPct": 12.41,
+        "volume": 93
+      },
+      {
+        "itemId": 12631,
+        "name": "Stamina potion(1)",
+        "baselinePrice": 1076,
+        "price": 1207,
+        "deltaAbs": 131,
+        "deltaPct": 12.18,
+        "volume": 836
+      },
+      {
+        "itemId": 5301,
+        "name": "Cadantine seed",
+        "baselinePrice": 8068,
+        "price": 9042,
+        "deltaAbs": 975,
+        "deltaPct": 12.08,
+        "volume": 1009
+      },
+      {
+        "itemId": 830,
+        "name": "Rune javelin",
+        "baselinePrice": 200,
+        "price": 224,
+        "deltaAbs": 24,
+        "deltaPct": 11.75,
+        "volume": 4648
+      },
+      {
+        "itemId": 32352,
+        "name": "Marlin",
+        "baselinePrice": 4256,
+        "price": 4756,
+        "deltaAbs": 500,
+        "deltaPct": 11.75,
+        "volume": 5947
+      },
+      {
+        "itemId": 12780,
+        "name": "Lassar teleport (tablet)",
+        "baselinePrice": 1554,
+        "price": 1735,
+        "deltaAbs": 182,
+        "deltaPct": 11.68,
+        "volume": 56
+      },
+      {
+        "itemId": 4542,
+        "name": "Lantern lens",
+        "baselinePrice": 27,
+        "price": 30,
+        "deltaAbs": 3,
+        "deltaPct": 11.32,
+        "volume": 2550
+      },
+      {
+        "itemId": 1329,
+        "name": "Mithril scimitar",
+        "baselinePrice": 421,
+        "price": 467,
+        "deltaAbs": 46,
+        "deltaPct": 10.93,
+        "volume": 162
+      },
+      {
+        "itemId": 1169,
+        "name": "Coif",
+        "baselinePrice": 37,
+        "price": 41,
+        "deltaAbs": 4,
+        "deltaPct": 10.81,
+        "volume": 523
+      },
+      {
+        "itemId": 5100,
+        "name": "Limpwurt seed",
+        "baselinePrice": 14,
+        "price": 16,
+        "deltaAbs": 2,
+        "deltaPct": 10.71,
+        "volume": 151
+      },
+      {
+        "itemId": 1139,
+        "name": "Bronze med helm",
+        "baselinePrice": 34,
+        "price": 38,
+        "deltaAbs": 4,
+        "deltaPct": 10.29,
+        "volume": 589
+      },
+      {
+        "itemId": 1937,
+        "name": "Jug of water",
+        "baselinePrice": 10,
+        "price": 11,
+        "deltaAbs": 1,
+        "deltaPct": 10,
+        "volume": 78707
+      },
+      {
+        "itemId": 12778,
+        "name": "Ghorrock teleport (tablet)",
+        "baselinePrice": 2517,
+        "price": 2756,
+        "deltaAbs": 239,
+        "deltaPct": 9.48,
+        "volume": 172
+      },
+      {
+        "itemId": 821,
+        "name": "Steel dart tip",
+        "baselinePrice": 107,
+        "price": 117,
+        "deltaAbs": 10,
+        "deltaPct": 9.35,
+        "volume": 11960
+      },
+      {
+        "itemId": 1625,
+        "name": "Uncut opal",
+        "baselinePrice": 66,
+        "price": 72,
+        "deltaAbs": 6,
+        "deltaPct": 9.09,
+        "volume": 10051
+      },
+      {
+        "itemId": 24961,
+        "name": "Catherby teleport (tablet)",
+        "baselinePrice": 1204,
+        "price": 1314,
+        "deltaAbs": 110,
+        "deltaPct": 9.09,
+        "volume": 407
+      },
+      {
+        "itemId": 5303,
+        "name": "Dwarf weed seed",
+        "baselinePrice": 898,
+        "price": 978,
+        "deltaAbs": 80,
+        "deltaPct": 8.91,
+        "volume": 337
+      },
+      {
+        "itemId": 2428,
+        "name": "Attack potion(4)",
+        "baselinePrice": 12,
+        "price": 13,
+        "deltaAbs": 1,
+        "deltaPct": 8.7,
+        "volume": 108
+      },
+      {
+        "itemId": 3032,
+        "name": "Agility potion(4)",
+        "baselinePrice": 278,
+        "price": 301,
+        "deltaAbs": 24,
+        "deltaPct": 8.47,
+        "volume": 129
+      },
+      {
+        "itemId": 11951,
+        "name": "Extended antifire(4)",
+        "baselinePrice": 490,
+        "price": 531,
+        "deltaAbs": 41,
+        "deltaPct": 8.38,
+        "volume": 1133
+      },
+      {
+        "itemId": 829,
+        "name": "Adamant javelin",
+        "baselinePrice": 49,
+        "price": 53,
+        "deltaAbs": 4,
+        "deltaPct": 8.16,
+        "volume": 3716
+      },
+      {
+        "itemId": 5521,
+        "name": "Binding necklace",
+        "baselinePrice": 745,
+        "price": 805,
+        "deltaAbs": 61,
+        "deltaPct": 8.13,
+        "volume": 1346
+      },
+      {
+        "itemId": 5499,
+        "name": "Curry sapling",
+        "baselinePrice": 2200,
+        "price": 729,
+        "deltaAbs": -1471,
+        "deltaPct": -66.89,
+        "volume": 376
+      },
+      {
+        "itemId": 31472,
+        "name": "Bolt of linen",
+        "baselinePrice": 2310,
+        "price": 1273,
+        "deltaAbs": -1037,
+        "deltaPct": -44.89,
+        "volume": 472
+      },
+      {
+        "itemId": 1131,
+        "name": "Hardleather body",
+        "baselinePrice": 24,
+        "price": 14,
+        "deltaAbs": -10,
+        "deltaPct": -42.55,
+        "volume": 549
+      },
+      {
+        "itemId": 1117,
+        "name": "Bronze platebody",
+        "baselinePrice": 62,
+        "price": 38,
+        "deltaAbs": -24,
+        "deltaPct": -38.71,
+        "volume": 68
+      },
+      {
+        "itemId": 1101,
+        "name": "Iron chainbody",
+        "baselinePrice": 136,
+        "price": 87,
+        "deltaAbs": -49,
+        "deltaPct": -36.03,
+        "volume": 98
+      },
+      {
+        "itemId": 436,
+        "name": "Copper ore",
+        "baselinePrice": 21,
+        "price": 14,
+        "deltaAbs": -7,
+        "deltaPct": -33.33,
+        "volume": 940
+      },
+      {
+        "itemId": 6328,
+        "name": "Snakeskin boots",
+        "baselinePrice": 360,
+        "price": 253,
+        "deltaAbs": -106,
+        "deltaPct": -29.62,
+        "volume": 103
+      },
+      {
+        "itemId": 1205,
+        "name": "Bronze dagger",
+        "baselinePrice": 251,
+        "price": 180,
+        "deltaAbs": -71,
+        "deltaPct": -28.34,
+        "volume": 698
+      },
+      {
+        "itemId": 40,
+        "name": "Iron arrowtips",
+        "baselinePrice": 14,
+        "price": 10,
+        "deltaAbs": -3,
+        "deltaPct": -25.93,
+        "volume": 1315
+      },
+      {
+        "itemId": 5370,
+        "name": "Oak sapling",
+        "baselinePrice": 282,
+        "price": 209,
+        "deltaAbs": -73,
+        "deltaPct": -25.89,
+        "volume": 142
+      },
+      {
+        "itemId": 11957,
+        "name": "Extended antifire(1)",
+        "baselinePrice": 162,
+        "price": 126,
+        "deltaAbs": -36,
+        "deltaPct": -22.22,
+        "volume": 408
+      },
+      {
+        "itemId": 753,
+        "name": "Cadava berries",
+        "baselinePrice": 119,
+        "price": 93,
+        "deltaAbs": -26,
+        "deltaPct": -21.94,
+        "volume": 192
+      },
+      {
+        "itemId": 315,
+        "name": "Shrimps",
+        "baselinePrice": 30,
+        "price": 24,
+        "deltaAbs": -6,
+        "deltaPct": -21.67,
+        "volume": 359
+      },
+      {
+        "itemId": 1203,
+        "name": "Iron dagger",
+        "baselinePrice": 35,
+        "price": 28,
+        "deltaAbs": -7,
+        "deltaPct": -21.43,
+        "volume": 66
+      },
+      {
+        "itemId": 5331,
+        "name": "Watering can",
+        "baselinePrice": 264,
+        "price": 212,
+        "deltaAbs": -52,
+        "deltaPct": -19.73,
+        "volume": 203
+      },
+      {
+        "itemId": 1727,
+        "name": "Amulet of magic",
+        "baselinePrice": 575,
+        "price": 465,
+        "deltaAbs": -110,
+        "deltaPct": -19.22,
+        "volume": 2928
+      },
+      {
+        "itemId": 5284,
+        "name": "Banana tree seed",
+        "baselinePrice": 59,
+        "price": 49,
+        "deltaAbs": -10,
+        "deltaPct": -17.8,
+        "volume": 161
+      },
+      {
+        "itemId": 19613,
+        "name": "Arceuus library teleport (tablet)",
+        "baselinePrice": 3451,
+        "price": 2839,
+        "deltaAbs": -612,
+        "deltaPct": -17.73,
+        "volume": 2035
+      },
+      {
+        "itemId": 1271,
+        "name": "Adamant pickaxe",
+        "baselinePrice": 2346,
+        "price": 1948,
+        "deltaAbs": -398,
+        "deltaPct": -16.99,
+        "volume": 104
+      },
+      {
+        "itemId": 5970,
+        "name": "Curry leaf",
+        "baselinePrice": 51,
+        "price": 42,
+        "deltaAbs": -8,
+        "deltaPct": -16.83,
+        "volume": 2507
+      },
+      {
+        "itemId": 1365,
+        "name": "Steel battleaxe",
+        "baselinePrice": 3206,
+        "price": 2672,
+        "deltaAbs": -534,
+        "deltaPct": -16.66,
+        "volume": 236
+      },
+      {
+        "itemId": 1295,
+        "name": "Steel longsword",
+        "baselinePrice": 154,
+        "price": 128,
+        "deltaAbs": -25,
+        "deltaPct": -16.61,
+        "volume": 153
+      },
+      {
+        "itemId": 32050,
+        "name": "Mahogany hull parts",
+        "baselinePrice": 8946,
+        "price": 7475,
+        "deltaAbs": -1471,
+        "deltaPct": -16.45,
+        "volume": 1211
+      },
+      {
+        "itemId": 5294,
+        "name": "Harralander seed",
+        "baselinePrice": 74,
+        "price": 62,
+        "deltaAbs": -12,
+        "deltaPct": -16.22,
+        "volume": 103
+      },
+      {
+        "itemId": 12403,
+        "name": "Digsite teleport",
+        "baselinePrice": 8580,
+        "price": 7227,
+        "deltaAbs": -1352,
+        "deltaPct": -15.76,
+        "volume": 3858
+      },
+      {
+        "itemId": 1438,
+        "name": "Air talisman",
+        "baselinePrice": 204,
+        "price": 173,
+        "deltaAbs": -31,
+        "deltaPct": -15.23,
+        "volume": 498
+      },
+      {
+        "itemId": 9142,
+        "name": "Mithril bolts",
+        "baselinePrice": 17,
+        "price": 15,
+        "deltaAbs": -2,
+        "deltaPct": -14.71,
+        "volume": 31657
+      },
+      {
+        "itemId": 6055,
+        "name": "Weeds",
+        "baselinePrice": 181,
+        "price": 155,
+        "deltaAbs": -26,
+        "deltaPct": -14.36,
+        "volume": 341
+      },
+      {
+        "itemId": 806,
+        "name": "Bronze dart",
+        "baselinePrice": 19,
+        "price": 17,
+        "deltaAbs": -2,
+        "deltaPct": -13.16,
+        "volume": 13090
+      },
+      {
+        "itemId": 32336,
+        "name": "Halibut",
+        "baselinePrice": 2383,
+        "price": 2071,
+        "deltaAbs": -312,
+        "deltaPct": -13.11,
+        "volume": 1989
+      },
+      {
+        "itemId": 6324,
+        "name": "Snakeskin chaps",
+        "baselinePrice": 733,
+        "price": 637,
+        "deltaAbs": -96,
+        "deltaPct": -13.1,
+        "volume": 86
+      },
+      {
+        "itemId": 22949,
+        "name": "Battlefront teleport (tablet)",
+        "baselinePrice": 2555,
+        "price": 2258,
+        "deltaAbs": -297,
+        "deltaPct": -11.62,
+        "volume": 125
+      },
+      {
+        "itemId": 2007,
+        "name": "Spice",
+        "baselinePrice": 93,
+        "price": 83,
+        "deltaAbs": -10,
+        "deltaPct": -10.81,
+        "volume": 291
+      },
+      {
+        "itemId": 9190,
+        "name": "Emerald bolt tips",
+        "baselinePrice": 40,
+        "price": 36,
+        "deltaAbs": -4,
+        "deltaPct": -10,
+        "volume": 7142
+      },
+      {
+        "itemId": 32071,
+        "name": "Large mahogany hull parts",
+        "baselinePrice": 58176,
+        "price": 52417,
+        "deltaAbs": -5759,
+        "deltaPct": -9.9,
+        "volume": 54
+      },
+      {
+        "itemId": 199,
+        "name": "Grimy guam leaf",
+        "baselinePrice": 235,
+        "price": 212,
+        "deltaAbs": -23,
+        "deltaPct": -9.81,
+        "volume": 987
+      },
+      {
+        "itemId": 989,
+        "name": "Crystal key",
+        "baselinePrice": 25150,
+        "price": 22695,
+        "deltaAbs": -2455,
+        "deltaPct": -9.76,
+        "volume": 287
+      },
+      {
+        "itemId": 5541,
+        "name": "Nature tiara",
+        "baselinePrice": 11,
+        "price": 10,
+        "deltaAbs": -1,
+        "deltaPct": -9.52,
+        "volume": 157
+      },
+      {
+        "itemId": 12408,
+        "name": "Piscatoris teleport",
+        "baselinePrice": 4000,
+        "price": 3623,
+        "deltaAbs": -377,
+        "deltaPct": -9.43,
+        "volume": 489
+      },
+      {
+        "itemId": 5968,
+        "name": "Tomatoes(5)",
+        "baselinePrice": 397,
+        "price": 360,
+        "deltaAbs": -37,
+        "deltaPct": -9.32,
+        "volume": 272
+      },
+      {
+        "itemId": 12406,
+        "name": "Mort'ton teleport",
+        "baselinePrice": 16408,
+        "price": 14896,
+        "deltaAbs": -1511,
+        "deltaPct": -9.21,
+        "volume": 352
+      },
+      {
+        "itemId": 6030,
+        "name": "Magic leaves",
+        "baselinePrice": 633,
+        "price": 575,
+        "deltaAbs": -58,
+        "deltaPct": -9.16,
+        "volume": 201
+      },
+      {
+        "itemId": 365,
+        "name": "Bass",
+        "baselinePrice": 88,
+        "price": 80,
+        "deltaAbs": -8,
+        "deltaPct": -9.14,
+        "volume": 10547
+      },
+      {
+        "itemId": 5297,
+        "name": "Irit seed",
+        "baselinePrice": 105,
+        "price": 96,
+        "deltaAbs": -9,
+        "deltaPct": -9.05,
+        "volume": 1525
+      },
+      {
+        "itemId": 2108,
+        "name": "Orange",
+        "baselinePrice": 142,
+        "price": 130,
+        "deltaAbs": -12,
+        "deltaPct": -8.8,
+        "volume": 294
+      },
+      {
+        "itemId": 31478,
+        "name": "Bolt of cotton",
+        "baselinePrice": 7122,
+        "price": 6558,
+        "deltaAbs": -564,
+        "deltaPct": -7.92,
+        "volume": 107
+      },
+      {
+        "itemId": 3105,
+        "name": "Climbing boots",
+        "baselinePrice": 641,
+        "price": 591,
+        "deltaAbs": -50,
+        "deltaPct": -7.81,
+        "volume": 330
+      },
+      {
+        "itemId": 1299,
+        "name": "Mithril longsword",
+        "baselinePrice": 596,
+        "price": 550,
+        "deltaAbs": -45,
+        "deltaPct": -7.64,
+        "volume": 1794
+      },
+      {
+        "itemId": 345,
+        "name": "Raw herring",
+        "baselinePrice": 67,
+        "price": 62,
+        "deltaAbs": -5,
+        "deltaPct": -7.46,
+        "volume": 229
+      },
+      {
+        "itemId": 886,
+        "name": "Steel arrow",
+        "baselinePrice": 14,
+        "price": 13,
+        "deltaAbs": -1,
+        "deltaPct": -7.41,
+        "volume": 28754
+      }
+    ],
+    "after6h": [
+      {
+        "itemId": 1355,
+        "name": "Mithril axe",
+        "baselinePrice": 134,
+        "price": 529,
+        "deltaAbs": 396,
+        "deltaPct": 296.25,
+        "volume": 179
+      },
+      {
+        "itemId": 1155,
+        "name": "Bronze full helm",
+        "baselinePrice": 151,
+        "price": 307,
+        "deltaAbs": 156,
+        "deltaPct": 103.65,
+        "volume": 184
+      },
+      {
+        "itemId": 6326,
+        "name": "Snakeskin bandana",
+        "baselinePrice": 141,
+        "price": 262,
+        "deltaAbs": 121,
+        "deltaPct": 85.46,
+        "volume": 218
+      },
+      {
+        "itemId": 19627,
+        "name": "Cemetery teleport (tablet)",
+        "baselinePrice": 4769,
+        "price": 8501,
+        "deltaAbs": 3732,
+        "deltaPct": 78.26,
+        "volume": 1610
+      },
+      {
+        "itemId": 1339,
+        "name": "Steel warhammer",
+        "baselinePrice": 61,
+        "price": 107,
+        "deltaAbs": 47,
+        "deltaPct": 76.86,
+        "volume": 250
+      },
+      {
+        "itemId": 5290,
+        "name": "Calquat tree seed",
+        "baselinePrice": 487,
+        "price": 839,
+        "deltaAbs": 353,
+        "deltaPct": 72.46,
+        "volume": 342
+      },
+      {
+        "itemId": 1765,
+        "name": "Yellow dye",
+        "baselinePrice": 114,
+        "price": 195,
+        "deltaAbs": 81,
+        "deltaPct": 71.37,
+        "volume": 147
+      },
+      {
+        "itemId": 347,
+        "name": "Herring",
+        "baselinePrice": 19,
+        "price": 31,
+        "deltaAbs": 12,
+        "deltaPct": 64.86,
+        "volume": 804
+      },
+      {
+        "itemId": 31472,
+        "name": "Bolt of linen",
+        "baselinePrice": 2310,
+        "price": 3765,
+        "deltaAbs": 1455,
+        "deltaPct": 62.99,
+        "volume": 450
+      },
+      {
+        "itemId": 5311,
+        "name": "Wildblood seed",
+        "baselinePrice": 31,
+        "price": 51,
+        "deltaAbs": 20,
+        "deltaPct": 62.9,
+        "volume": 197
+      },
+      {
+        "itemId": 21490,
+        "name": "Seaweed spore",
+        "baselinePrice": 231,
+        "price": 355,
+        "deltaAbs": 124,
+        "deltaPct": 53.46,
+        "volume": 364
+      },
+      {
+        "itemId": 5283,
+        "name": "Apple tree seed",
+        "baselinePrice": 13,
+        "price": 19,
+        "deltaAbs": 6,
+        "deltaPct": 46.15,
+        "volume": 421
+      },
+      {
+        "itemId": 12776,
+        "name": "Carrallanger teleport (tablet)",
+        "baselinePrice": 1801,
+        "price": 2588,
+        "deltaAbs": 788,
+        "deltaPct": 43.74,
+        "volume": 541
+      },
+      {
+        "itemId": 1191,
+        "name": "Iron kiteshield",
+        "baselinePrice": 79,
+        "price": 109,
+        "deltaAbs": 31,
+        "deltaPct": 38.85,
+        "volume": 57
+      },
+      {
+        "itemId": 4842,
+        "name": "Relicym's balm(4)",
+        "baselinePrice": 610,
+        "price": 842,
+        "deltaAbs": 232,
+        "deltaPct": 38.03,
+        "volume": 330
+      },
+      {
+        "itemId": 341,
+        "name": "Raw cod",
+        "baselinePrice": 59,
+        "price": 81,
+        "deltaAbs": 22,
+        "deltaPct": 37.61,
+        "volume": 93
+      },
+      {
+        "itemId": 2487,
+        "name": "Blue d'hide vambraces",
+        "baselinePrice": 1199,
+        "price": 1630,
+        "deltaAbs": 431,
+        "deltaPct": 35.95,
+        "volume": 139
+      },
+      {
+        "itemId": 1129,
+        "name": "Leather body",
+        "baselinePrice": 12,
+        "price": 16,
+        "deltaAbs": 4,
+        "deltaPct": 29.17,
+        "volume": 215
+      },
+      {
+        "itemId": 11324,
+        "name": "Roe",
+        "baselinePrice": 57,
+        "price": 73,
+        "deltaAbs": 16,
+        "deltaPct": 27.19,
+        "volume": 181
+      },
+      {
+        "itemId": 31912,
+        "name": "Adamant cannonball",
+        "baselinePrice": 485,
+        "price": 614,
+        "deltaAbs": 130,
+        "deltaPct": 26.73,
+        "volume": 151933
+      },
+      {
+        "itemId": 1369,
+        "name": "Mithril battleaxe",
+        "baselinePrice": 854,
+        "price": 1070,
+        "deltaAbs": 216,
+        "deltaPct": 25.29,
+        "volume": 153
+      },
+      {
+        "itemId": 1329,
+        "name": "Mithril scimitar",
+        "baselinePrice": 421,
+        "price": 527,
+        "deltaAbs": 106,
+        "deltaPct": 25.06,
+        "volume": 616
+      },
+      {
+        "itemId": 7198,
+        "name": "Admiral pie",
+        "baselinePrice": 135,
+        "price": 167,
+        "deltaAbs": 33,
+        "deltaPct": 24.16,
+        "volume": 187
+      },
+      {
+        "itemId": 5500,
+        "name": "Pineapple sapling",
+        "baselinePrice": 254,
+        "price": 313,
+        "deltaAbs": 60,
+        "deltaPct": 23.47,
+        "volume": 675
+      },
+      {
+        "itemId": 5498,
+        "name": "Orange sapling",
+        "baselinePrice": 52,
+        "price": 64,
+        "deltaAbs": 12,
+        "deltaPct": 23.08,
+        "volume": 132
+      },
+      {
+        "itemId": 4161,
+        "name": "Bag of salt",
+        "baselinePrice": 23,
+        "price": 28,
+        "deltaAbs": 5,
+        "deltaPct": 22.22,
+        "volume": 954
+      },
+      {
+        "itemId": 13385,
+        "name": "Xerician hat",
+        "baselinePrice": 3679,
+        "price": 4471,
+        "deltaAbs": 793,
+        "deltaPct": 21.54,
+        "volume": 58
+      },
+      {
+        "itemId": 5298,
+        "name": "Avantoe seed",
+        "baselinePrice": 408,
+        "price": 491,
+        "deltaAbs": 84,
+        "deltaPct": 20.49,
+        "volume": 1073
+      },
+      {
+        "itemId": 45,
+        "name": "Opal bolt tips",
+        "baselinePrice": 25,
+        "price": 30,
+        "deltaAbs": 5,
+        "deltaPct": 20.41,
+        "volume": 5537
+      },
+      {
+        "itemId": 201,
+        "name": "Grimy marrentill",
+        "baselinePrice": 181,
+        "price": 215,
+        "deltaAbs": 34,
+        "deltaPct": 18.78,
+        "volume": 2439
+      },
+      {
+        "itemId": 29166,
+        "name": "Jerboa tail",
+        "baselinePrice": 111,
+        "price": 130,
+        "deltaAbs": 19,
+        "deltaPct": 16.67,
+        "volume": 4668
+      },
+      {
+        "itemId": 247,
+        "name": "Jangerberries",
+        "baselinePrice": 293,
+        "price": 340,
+        "deltaAbs": 48,
+        "deltaPct": 16.24,
+        "volume": 373
+      },
+      {
+        "itemId": 5314,
+        "name": "Maple seed",
+        "baselinePrice": 4069,
+        "price": 4625,
+        "deltaAbs": 556,
+        "deltaPct": 13.66,
+        "volume": 919
+      },
+      {
+        "itemId": 1115,
+        "name": "Iron platebody",
+        "baselinePrice": 107,
+        "price": 121,
+        "deltaAbs": 15,
+        "deltaPct": 13.62,
+        "volume": 992
+      },
+      {
+        "itemId": 29458,
+        "name": "Adamant seeds",
+        "baselinePrice": 115,
+        "price": 131,
+        "deltaAbs": 16,
+        "deltaPct": 13.48,
+        "volume": 2581
+      },
+      {
+        "itemId": 23709,
+        "name": "Divine super strength potion(4)",
+        "baselinePrice": 5775,
+        "price": 6546,
+        "deltaAbs": 771,
+        "deltaPct": 13.35,
+        "volume": 199
+      },
+      {
+        "itemId": 5299,
+        "name": "Kwuarm seed",
+        "baselinePrice": 2332,
+        "price": 2633,
+        "deltaAbs": 301,
+        "deltaPct": 12.89,
+        "volume": 1098
+      },
+      {
+        "itemId": 820,
+        "name": "Iron dart tip",
+        "baselinePrice": 57,
+        "price": 64,
+        "deltaAbs": 7,
+        "deltaPct": 12.28,
+        "volume": 30053
+      },
+      {
+        "itemId": 5302,
+        "name": "Lantadyme seed",
+        "baselinePrice": 163,
+        "price": 183,
+        "deltaAbs": 20,
+        "deltaPct": 12.27,
+        "volume": 919
+      },
+      {
+        "itemId": 12631,
+        "name": "Stamina potion(1)",
+        "baselinePrice": 1076,
+        "price": 1207,
+        "deltaAbs": 131,
+        "deltaPct": 12.18,
+        "volume": 833
+      },
+      {
+        "itemId": 8431,
+        "name": "Bagged plant 1",
+        "baselinePrice": 1211,
+        "price": 1354,
+        "deltaAbs": 144,
+        "deltaPct": 11.85,
+        "volume": 107
+      },
+      {
+        "itemId": 5301,
+        "name": "Cadantine seed",
+        "baselinePrice": 8068,
+        "price": 8972,
+        "deltaAbs": 905,
+        "deltaPct": 11.21,
+        "volume": 997
+      },
+      {
+        "itemId": 1985,
+        "name": "Cheese",
+        "baselinePrice": 50,
+        "price": 55,
+        "deltaAbs": 6,
+        "deltaPct": 11.11,
+        "volume": 97
+      },
+      {
+        "itemId": 2347,
+        "name": "Hammer",
+        "baselinePrice": 50,
+        "price": 55,
+        "deltaAbs": 6,
+        "deltaPct": 11.11,
+        "volume": 138
+      },
+      {
+        "itemId": 8008,
+        "name": "Lumbridge teleport (tablet)",
+        "baselinePrice": 613,
+        "price": 680,
+        "deltaAbs": 68,
+        "deltaPct": 11.02,
+        "volume": 9697
+      },
+      {
+        "itemId": 30813,
+        "name": "Contract of sensory clouding",
+        "baselinePrice": 385375,
+        "price": 427845,
+        "deltaAbs": 42471,
+        "deltaPct": 11.02,
+        "volume": 55
+      },
+      {
+        "itemId": 12778,
+        "name": "Ghorrock teleport (tablet)",
+        "baselinePrice": 2517,
+        "price": 2792,
+        "deltaAbs": 275,
+        "deltaPct": 10.93,
+        "volume": 62
+      },
+      {
+        "itemId": 32005,
+        "name": "Steel keel parts",
+        "baselinePrice": 3261,
+        "price": 3616,
+        "deltaAbs": 355,
+        "deltaPct": 10.89,
+        "volume": 685
+      },
+      {
+        "itemId": 24589,
+        "name": "Blighted manta ray",
+        "baselinePrice": 119,
+        "price": 132,
+        "deltaAbs": 13,
+        "deltaPct": 10.5,
+        "volume": 35199
+      },
+      {
+        "itemId": 5303,
+        "name": "Dwarf weed seed",
+        "baselinePrice": 898,
+        "price": 991,
+        "deltaAbs": 93,
+        "deltaPct": 10.36,
+        "volume": 813
+      },
+      {
+        "itemId": 1101,
+        "name": "Iron chainbody",
+        "baselinePrice": 136,
+        "price": 38,
+        "deltaAbs": -98,
+        "deltaPct": -72.43,
+        "volume": 100
+      },
+      {
+        "itemId": 5285,
+        "name": "Orange tree seed",
+        "baselinePrice": 77,
+        "price": 26,
+        "deltaAbs": -51,
+        "deltaPct": -66.67,
+        "volume": 102
+      },
+      {
+        "itemId": 5294,
+        "name": "Harralander seed",
+        "baselinePrice": 74,
+        "price": 26,
+        "deltaAbs": -48,
+        "deltaPct": -65.54,
+        "volume": 444
+      },
+      {
+        "itemId": 5284,
+        "name": "Banana tree seed",
+        "baselinePrice": 59,
+        "price": 22,
+        "deltaAbs": -37,
+        "deltaPct": -62.71,
+        "volume": 221
+      },
+      {
+        "itemId": 1203,
+        "name": "Iron dagger",
+        "baselinePrice": 35,
+        "price": 15,
+        "deltaAbs": -20,
+        "deltaPct": -58.57,
+        "volume": 261
+      },
+      {
+        "itemId": 1205,
+        "name": "Bronze dagger",
+        "baselinePrice": 251,
+        "price": 108,
+        "deltaAbs": -142,
+        "deltaPct": -56.89,
+        "volume": 75
+      },
+      {
+        "itemId": 5280,
+        "name": "Cactus seed",
+        "baselinePrice": 75,
+        "price": 33,
+        "deltaAbs": -41,
+        "deltaPct": -55.7,
+        "volume": 122
+      },
+      {
+        "itemId": 5293,
+        "name": "Tarromin seed",
+        "baselinePrice": 28,
+        "price": 14,
+        "deltaAbs": -14,
+        "deltaPct": -51.79,
+        "volume": 156
+      },
+      {
+        "itemId": 5312,
+        "name": "Acorn",
+        "baselinePrice": 53,
+        "price": 27,
+        "deltaAbs": -26,
+        "deltaPct": -49.06,
+        "volume": 470
+      },
+      {
+        "itemId": 1069,
+        "name": "Steel platelegs",
+        "baselinePrice": 924,
+        "price": 498,
+        "deltaAbs": -426,
+        "deltaPct": -46.13,
+        "volume": 164
+      },
+      {
+        "itemId": 7329,
+        "name": "Red firelighter",
+        "baselinePrice": 209,
+        "price": 114,
+        "deltaAbs": -95,
+        "deltaPct": -45.69,
+        "volume": 919
+      },
+      {
+        "itemId": 1103,
+        "name": "Bronze chainbody",
+        "baselinePrice": 94,
+        "price": 56,
+        "deltaAbs": -38,
+        "deltaPct": -40.43,
+        "volume": 200
+      },
+      {
+        "itemId": 1117,
+        "name": "Bronze platebody",
+        "baselinePrice": 62,
+        "price": 37,
+        "deltaAbs": -25,
+        "deltaPct": -40.32,
+        "volume": 138
+      },
+      {
+        "itemId": 5321,
+        "name": "Watermelon seed",
+        "baselinePrice": 266,
+        "price": 165,
+        "deltaAbs": -101,
+        "deltaPct": -38.16,
+        "volume": 2397
+      },
+      {
+        "itemId": 436,
+        "name": "Copper ore",
+        "baselinePrice": 21,
+        "price": 13,
+        "deltaAbs": -8,
+        "deltaPct": -38.1,
+        "volume": 891
+      },
+      {
+        "itemId": 1207,
+        "name": "Steel dagger",
+        "baselinePrice": 25,
+        "price": 16,
+        "deltaAbs": -9,
+        "deltaPct": -38,
+        "volume": 142
+      },
+      {
+        "itemId": 5370,
+        "name": "Oak sapling",
+        "baselinePrice": 282,
+        "price": 183,
+        "deltaAbs": -99,
+        "deltaPct": -35.28,
+        "volume": 253
+      },
+      {
+        "itemId": 54,
+        "name": "Oak shortbow (u)",
+        "baselinePrice": 19,
+        "price": 12,
+        "deltaAbs": -6,
+        "deltaPct": -35.14,
+        "volume": 237
+      },
+      {
+        "itemId": 1430,
+        "name": "Adamant mace",
+        "baselinePrice": 882,
+        "price": 574,
+        "deltaAbs": -308,
+        "deltaPct": -34.92,
+        "volume": 230
+      },
+      {
+        "itemId": 753,
+        "name": "Cadava berries",
+        "baselinePrice": 119,
+        "price": 78,
+        "deltaAbs": -40,
+        "deltaPct": -34.18,
+        "volume": 288
+      },
+      {
+        "itemId": 21488,
+        "name": "Mahogany seed",
+        "baselinePrice": 331,
+        "price": 224,
+        "deltaAbs": -107,
+        "deltaPct": -32.33,
+        "volume": 708
+      },
+      {
+        "itemId": 2007,
+        "name": "Spice",
+        "baselinePrice": 93,
+        "price": 69,
+        "deltaAbs": -23,
+        "deltaPct": -25.41,
+        "volume": 93
+      },
+      {
+        "itemId": 5982,
+        "name": "Watermelon",
+        "baselinePrice": 16,
+        "price": 12,
+        "deltaAbs": -4,
+        "deltaPct": -25,
+        "volume": 12677
+      },
+      {
+        "itemId": 20238,
+        "name": "Charge dragonstone jewellery scroll",
+        "baselinePrice": 175,
+        "price": 131,
+        "deltaAbs": -43,
+        "deltaPct": -24.93,
+        "volume": 92
+      },
+      {
+        "itemId": 5968,
+        "name": "Tomatoes(5)",
+        "baselinePrice": 397,
+        "price": 310,
+        "deltaAbs": -87,
+        "deltaPct": -22.04,
+        "volume": 541
+      },
+      {
+        "itemId": 11957,
+        "name": "Extended antifire(1)",
+        "baselinePrice": 162,
+        "price": 127,
+        "deltaAbs": -35,
+        "deltaPct": -21.6,
+        "volume": 301
+      },
+      {
+        "itemId": 1285,
+        "name": "Mithril sword",
+        "baselinePrice": 271,
+        "price": 213,
+        "deltaAbs": -58,
+        "deltaPct": -21.59,
+        "volume": 503
+      },
+      {
+        "itemId": 32050,
+        "name": "Mahogany hull parts",
+        "baselinePrice": 8946,
+        "price": 7016,
+        "deltaAbs": -1930,
+        "deltaPct": -21.57,
+        "volume": 170
+      },
+      {
+        "itemId": 1063,
+        "name": "Leather vambraces",
+        "baselinePrice": 15,
+        "price": 12,
+        "deltaAbs": -3,
+        "deltaPct": -20.69,
+        "volume": 459
+      },
+      {
+        "itemId": 1523,
+        "name": "Lockpick",
+        "baselinePrice": 293,
+        "price": 236,
+        "deltaAbs": -57,
+        "deltaPct": -19.45,
+        "volume": 2753
+      },
+      {
+        "itemId": 1131,
+        "name": "Hardleather body",
+        "baselinePrice": 24,
+        "price": 19,
+        "deltaAbs": -4,
+        "deltaPct": -19.15,
+        "volume": 301
+      },
+      {
+        "itemId": 40,
+        "name": "Iron arrowtips",
+        "baselinePrice": 14,
+        "price": 11,
+        "deltaAbs": -2,
+        "deltaPct": -18.52,
+        "volume": 4293
+      },
+      {
+        "itemId": 24963,
+        "name": "Ice plateau teleport (tablet)",
+        "baselinePrice": 1518,
+        "price": 1239,
+        "deltaAbs": -278,
+        "deltaPct": -18.35,
+        "volume": 237
+      },
+      {
+        "itemId": 821,
+        "name": "Steel dart tip",
+        "baselinePrice": 107,
+        "price": 88,
+        "deltaAbs": -19,
+        "deltaPct": -18.22,
+        "volume": 45068
+      },
+      {
+        "itemId": 9240,
+        "name": "Sapphire bolts (e)",
+        "baselinePrice": 36,
+        "price": 30,
+        "deltaAbs": -6,
+        "deltaPct": -18.06,
+        "volume": 11703
+      },
+      {
+        "itemId": 21126,
+        "name": "Ring of pursuit",
+        "baselinePrice": 1399,
+        "price": 1147,
+        "deltaAbs": -251,
+        "deltaPct": -17.98,
+        "volume": 401
+      },
+      {
+        "itemId": 31942,
+        "name": "Item 31942",
+        "baselinePrice": 1762,
+        "price": 1452,
+        "deltaAbs": -310,
+        "deltaPct": -17.6,
+        "volume": 5317
+      },
+      {
+        "itemId": 5970,
+        "name": "Curry leaf",
+        "baselinePrice": 51,
+        "price": 42,
+        "deltaAbs": -8,
+        "deltaPct": -16.83,
+        "volume": 1274
+      },
+      {
+        "itemId": 1963,
+        "name": "Banana",
+        "baselinePrice": 46,
+        "price": 39,
+        "deltaAbs": -7,
+        "deltaPct": -15.22,
+        "volume": 112086
+      },
+      {
+        "itemId": 315,
+        "name": "Shrimps",
+        "baselinePrice": 30,
+        "price": 26,
+        "deltaAbs": -4,
+        "deltaPct": -15,
+        "volume": 1735
+      },
+      {
+        "itemId": 175,
+        "name": "Antipoison(3)",
+        "baselinePrice": 273,
+        "price": 233,
+        "deltaAbs": -40,
+        "deltaPct": -14.84,
+        "volume": 129
+      },
+      {
+        "itemId": 6034,
+        "name": "Supercompost",
+        "baselinePrice": 78,
+        "price": 66,
+        "deltaAbs": -11,
+        "deltaPct": -14.84,
+        "volume": 17719
+      },
+      {
+        "itemId": 28837,
+        "name": "Irit tar",
+        "baselinePrice": 18,
+        "price": 15,
+        "deltaAbs": -2,
+        "deltaPct": -14.29,
+        "volume": 14038
+      },
+      {
+        "itemId": 1365,
+        "name": "Steel battleaxe",
+        "baselinePrice": 3206,
+        "price": 2771,
+        "deltaAbs": -434,
+        "deltaPct": -13.55,
+        "volume": 351
+      },
+      {
+        "itemId": 303,
+        "name": "Small fishing net",
+        "baselinePrice": 178,
+        "price": 154,
+        "deltaAbs": -23,
+        "deltaPct": -13.24,
+        "volume": 154
+      },
+      {
+        "itemId": 10087,
+        "name": "Stripy feather",
+        "baselinePrice": 19,
+        "price": 17,
+        "deltaAbs": -2,
+        "deltaPct": -13.16,
+        "volume": 10502
+      },
+      {
+        "itemId": 1061,
+        "name": "Leather boots",
+        "baselinePrice": 54,
+        "price": 47,
+        "deltaAbs": -7,
+        "deltaPct": -13.08,
+        "volume": 285
+      },
+      {
+        "itemId": 5282,
+        "name": "Mushroom spore",
+        "baselinePrice": 79,
+        "price": 69,
+        "deltaAbs": -10,
+        "deltaPct": -12.74,
+        "volume": 83
+      },
+      {
+        "itemId": 10016,
+        "name": "Snowy knight (item)",
+        "baselinePrice": 2404,
+        "price": 2103,
+        "deltaAbs": -301,
+        "deltaPct": -12.52,
+        "volume": 258
+      },
+      {
+        "itemId": 32336,
+        "name": "Halibut",
+        "baselinePrice": 2383,
+        "price": 2094,
+        "deltaAbs": -289,
+        "deltaPct": -12.13,
+        "volume": 3631
+      }
+    ],
+    "after24h": [
+      {
+        "itemId": 2313,
+        "name": "Pie dish",
+        "baselinePrice": 11,
+        "price": 55,
+        "deltaAbs": 44,
+        "deltaPct": 419.05,
+        "volume": 1132
+      },
+      {
+        "itemId": 6326,
+        "name": "Snakeskin bandana",
+        "baselinePrice": 141,
+        "price": 645,
+        "deltaAbs": 504,
+        "deltaPct": 357.09,
+        "volume": 114
+      },
+      {
+        "itemId": 1765,
+        "name": "Yellow dye",
+        "baselinePrice": 114,
+        "price": 265,
+        "deltaAbs": 152,
+        "deltaPct": 133.48,
+        "volume": 83
+      },
+      {
+        "itemId": 1355,
+        "name": "Mithril axe",
+        "baselinePrice": 134,
+        "price": 293,
+        "deltaAbs": 160,
+        "deltaPct": 119.48,
+        "volume": 289
+      },
+      {
+        "itemId": 5302,
+        "name": "Lantadyme seed",
+        "baselinePrice": 163,
+        "price": 303,
+        "deltaAbs": 140,
+        "deltaPct": 85.58,
+        "volume": 412
+      },
+      {
+        "itemId": 32008,
+        "name": "Mithril keel parts",
+        "baselinePrice": 3070,
+        "price": 5636,
+        "deltaAbs": 2566,
+        "deltaPct": 83.58,
+        "volume": 70
+      },
+      {
+        "itemId": 1097,
+        "name": "Studded chaps",
+        "baselinePrice": 197,
+        "price": 321,
+        "deltaAbs": 125,
+        "deltaPct": 63.36,
+        "volume": 51
+      },
+      {
+        "itemId": 341,
+        "name": "Raw cod",
+        "baselinePrice": 59,
+        "price": 94,
+        "deltaAbs": 36,
+        "deltaPct": 60.68,
+        "volume": 176
+      },
+      {
+        "itemId": 21140,
+        "name": "Efaritay's aid",
+        "baselinePrice": 3187,
+        "price": 4788,
+        "deltaAbs": 1601,
+        "deltaPct": 50.24,
+        "volume": 57
+      },
+      {
+        "itemId": 4842,
+        "name": "Relicym's balm(4)",
+        "baselinePrice": 610,
+        "price": 872,
+        "deltaAbs": 262,
+        "deltaPct": 42.95,
+        "volume": 146
+      },
+      {
+        "itemId": 31475,
+        "name": "Bolt of canvas",
+        "baselinePrice": 2088,
+        "price": 2920,
+        "deltaAbs": 832,
+        "deltaPct": 39.86,
+        "volume": 256
+      },
+      {
+        "itemId": 11955,
+        "name": "Extended antifire(2)",
+        "baselinePrice": 255,
+        "price": 347,
+        "deltaAbs": 92,
+        "deltaPct": 36.15,
+        "volume": 271
+      },
+      {
+        "itemId": 6705,
+        "name": "Potato with cheese",
+        "baselinePrice": 129,
+        "price": 173,
+        "deltaAbs": 45,
+        "deltaPct": 34.63,
+        "volume": 1264
+      },
+      {
+        "itemId": 11324,
+        "name": "Roe",
+        "baselinePrice": 57,
+        "price": 77,
+        "deltaAbs": 20,
+        "deltaPct": 34.21,
+        "volume": 107
+      },
+      {
+        "itemId": 1129,
+        "name": "Leather body",
+        "baselinePrice": 12,
+        "price": 16,
+        "deltaAbs": 4,
+        "deltaPct": 33.33,
+        "volume": 685
+      },
+      {
+        "itemId": 544,
+        "name": "Monk's robe top",
+        "baselinePrice": 181,
+        "price": 233,
+        "deltaAbs": 52,
+        "deltaPct": 28.45,
+        "volume": 135
+      },
+      {
+        "itemId": 30619,
+        "name": "Bounty supply crate (anglerfish)",
+        "baselinePrice": 3899,
+        "price": 4993,
+        "deltaAbs": 1095,
+        "deltaPct": 28.07,
+        "volume": 500
+      },
+      {
+        "itemId": 5370,
+        "name": "Oak sapling",
+        "baselinePrice": 282,
+        "price": 359,
+        "deltaAbs": 77,
+        "deltaPct": 27.3,
+        "volume": 208
+      },
+      {
+        "itemId": 2142,
+        "name": "Cooked meat",
+        "baselinePrice": 62,
+        "price": 79,
+        "deltaAbs": 17,
+        "deltaPct": 26.61,
+        "volume": 234
+      },
+      {
+        "itemId": 1353,
+        "name": "Steel axe",
+        "baselinePrice": 155,
+        "price": 196,
+        "deltaAbs": 41,
+        "deltaPct": 26.54,
+        "volume": 103
+      },
+      {
+        "itemId": 2347,
+        "name": "Hammer",
+        "baselinePrice": 50,
+        "price": 63,
+        "deltaAbs": 13,
+        "deltaPct": 26.26,
+        "volume": 220
+      },
+      {
+        "itemId": 32362,
+        "name": "Marlin scales",
+        "baselinePrice": 937,
+        "price": 1162,
+        "deltaAbs": 226,
+        "deltaPct": 24.08,
+        "volume": 1608
+      },
+      {
+        "itemId": 28899,
+        "name": "Wyrmling bones",
+        "baselinePrice": 383,
+        "price": 474,
+        "deltaAbs": 91,
+        "deltaPct": 23.63,
+        "volume": 3335
+      },
+      {
+        "itemId": 201,
+        "name": "Grimy marrentill",
+        "baselinePrice": 181,
+        "price": 223,
+        "deltaAbs": 42,
+        "deltaPct": 23.2,
+        "volume": 1459
+      },
+      {
+        "itemId": 1351,
+        "name": "Bronze axe",
+        "baselinePrice": 79,
+        "price": 96,
+        "deltaAbs": 17,
+        "deltaPct": 21.66,
+        "volume": 101
+      },
+      {
+        "itemId": 24953,
+        "name": "Waterbirth teleport (tablet)",
+        "baselinePrice": 835,
+        "price": 1011,
+        "deltaAbs": 176,
+        "deltaPct": 21.09,
+        "volume": 475
+      },
+      {
+        "itemId": 31912,
+        "name": "Adamant cannonball",
+        "baselinePrice": 485,
+        "price": 578,
+        "deltaAbs": 94,
+        "deltaPct": 19.3,
+        "volume": 76753
+      },
+      {
+        "itemId": 2864,
+        "name": "Ogre arrow shaft",
+        "baselinePrice": 72,
+        "price": 85,
+        "deltaAbs": 14,
+        "deltaPct": 18.88,
+        "volume": 1021
+      },
+      {
+        "itemId": 31722,
+        "name": "Item 31722",
+        "baselinePrice": 595,
+        "price": 705,
+        "deltaAbs": 110,
+        "deltaPct": 18.5,
+        "volume": 144439
+      },
+      {
+        "itemId": 11951,
+        "name": "Extended antifire(4)",
+        "baselinePrice": 490,
+        "price": 578,
+        "deltaAbs": 89,
+        "deltaPct": 18.08,
+        "volume": 2640
+      },
+      {
+        "itemId": 327,
+        "name": "Raw sardine",
+        "baselinePrice": 26,
+        "price": 30,
+        "deltaAbs": 5,
+        "deltaPct": 17.65,
+        "volume": 6277
+      },
+      {
+        "itemId": 24615,
+        "name": "Blighted teleport spell sack",
+        "baselinePrice": 54,
+        "price": 64,
+        "deltaAbs": 10,
+        "deltaPct": 17.59,
+        "volume": 23060
+      },
+      {
+        "itemId": 325,
+        "name": "Sardine",
+        "baselinePrice": 20,
+        "price": 24,
+        "deltaAbs": 4,
+        "deltaPct": 17.5,
+        "volume": 163
+      },
+      {
+        "itemId": 1115,
+        "name": "Iron platebody",
+        "baselinePrice": 107,
+        "price": 125,
+        "deltaAbs": 19,
+        "deltaPct": 17.37,
+        "volume": 452
+      },
+      {
+        "itemId": 3105,
+        "name": "Climbing boots",
+        "baselinePrice": 641,
+        "price": 748,
+        "deltaAbs": 107,
+        "deltaPct": 16.71,
+        "volume": 106
+      },
+      {
+        "itemId": 22949,
+        "name": "Battlefront teleport (tablet)",
+        "baselinePrice": 2555,
+        "price": 2957,
+        "deltaAbs": 402,
+        "deltaPct": 15.71,
+        "volume": 92
+      },
+      {
+        "itemId": 13502,
+        "name": "Ensouled demon head",
+        "baselinePrice": 2953,
+        "price": 3409,
+        "deltaAbs": 457,
+        "deltaPct": 15.46,
+        "volume": 66
+      },
+      {
+        "itemId": 5105,
+        "name": "Whiteberry seed",
+        "baselinePrice": 10,
+        "price": 12,
+        "deltaAbs": 2,
+        "deltaPct": 15,
+        "volume": 241
+      },
+      {
+        "itemId": 32352,
+        "name": "Marlin",
+        "baselinePrice": 4256,
+        "price": 4889,
+        "deltaAbs": 633,
+        "deltaPct": 14.87,
+        "volume": 2339
+      },
+      {
+        "itemId": 29458,
+        "name": "Adamant seeds",
+        "baselinePrice": 115,
+        "price": 132,
+        "deltaAbs": 17,
+        "deltaPct": 14.78,
+        "volume": 2972
+      },
+      {
+        "itemId": 1343,
+        "name": "Mithril warhammer",
+        "baselinePrice": 856,
+        "price": 978,
+        "deltaAbs": 123,
+        "deltaPct": 14.32,
+        "volume": 304
+      },
+      {
+        "itemId": 5312,
+        "name": "Acorn",
+        "baselinePrice": 53,
+        "price": 61,
+        "deltaAbs": 8,
+        "deltaPct": 14.15,
+        "volume": 421
+      },
+      {
+        "itemId": 32349,
+        "name": "Raw marlin",
+        "baselinePrice": 3502,
+        "price": 3992,
+        "deltaAbs": 490,
+        "deltaPct": 13.99,
+        "volume": 19287
+      },
+      {
+        "itemId": 1933,
+        "name": "Pot of flour",
+        "baselinePrice": 79,
+        "price": 90,
+        "deltaAbs": 11,
+        "deltaPct": 13.92,
+        "volume": 544
+      },
+      {
+        "itemId": 5297,
+        "name": "Irit seed",
+        "baselinePrice": 105,
+        "price": 120,
+        "deltaAbs": 15,
+        "deltaPct": 13.81,
+        "volume": 1046
+      },
+      {
+        "itemId": 12631,
+        "name": "Stamina potion(1)",
+        "baselinePrice": 1076,
+        "price": 1224,
+        "deltaAbs": 148,
+        "deltaPct": 13.76,
+        "volume": 1069
+      },
+      {
+        "itemId": 1919,
+        "name": "Beer glass",
+        "baselinePrice": 19,
+        "price": 21,
+        "deltaAbs": 3,
+        "deltaPct": 13.51,
+        "volume": 491
+      },
+      {
+        "itemId": 29307,
+        "name": "Quetzal feed",
+        "baselinePrice": 3831,
+        "price": 4335,
+        "deltaAbs": 504,
+        "deltaPct": 13.16,
+        "volume": 267
+      },
+      {
+        "itemId": 1965,
+        "name": "Cabbage",
+        "baselinePrice": 16,
+        "price": 18,
+        "deltaAbs": 2,
+        "deltaPct": 12.9,
+        "volume": 115
+      },
+      {
+        "itemId": 2011,
+        "name": "Curry",
+        "baselinePrice": 351,
+        "price": 395,
+        "deltaAbs": 44,
+        "deltaPct": 12.39,
+        "volume": 2105
+      },
+      {
+        "itemId": 1205,
+        "name": "Bronze dagger",
+        "baselinePrice": 251,
+        "price": 23,
+        "deltaAbs": -228,
+        "deltaPct": -91.02,
+        "volume": 2122
+      },
+      {
+        "itemId": 31472,
+        "name": "Bolt of linen",
+        "baselinePrice": 2310,
+        "price": 652,
+        "deltaAbs": -1658,
+        "deltaPct": -71.77,
+        "volume": 171
+      },
+      {
+        "itemId": 5284,
+        "name": "Banana tree seed",
+        "baselinePrice": 59,
+        "price": 22,
+        "deltaAbs": -37,
+        "deltaPct": -62.71,
+        "volume": 240
+      },
+      {
+        "itemId": 20238,
+        "name": "Charge dragonstone jewellery scroll",
+        "baselinePrice": 175,
+        "price": 72,
+        "deltaAbs": -102,
+        "deltaPct": -58.74,
+        "volume": 68
+      },
+      {
+        "itemId": 1101,
+        "name": "Iron chainbody",
+        "baselinePrice": 136,
+        "price": 61,
+        "deltaAbs": -75,
+        "deltaPct": -55.15,
+        "volume": 85
+      },
+      {
+        "itemId": 5293,
+        "name": "Tarromin seed",
+        "baselinePrice": 28,
+        "price": 13,
+        "deltaAbs": -15,
+        "deltaPct": -53.57,
+        "volume": 479
+      },
+      {
+        "itemId": 1169,
+        "name": "Coif",
+        "baselinePrice": 37,
+        "price": 20,
+        "deltaAbs": -17,
+        "deltaPct": -45.95,
+        "volume": 141
+      },
+      {
+        "itemId": 32050,
+        "name": "Mahogany hull parts",
+        "baselinePrice": 8946,
+        "price": 5263,
+        "deltaAbs": -3683,
+        "deltaPct": -41.17,
+        "volume": 96
+      },
+      {
+        "itemId": 31940,
+        "name": "Item 31940",
+        "baselinePrice": 817,
+        "price": 483,
+        "deltaAbs": -334,
+        "deltaPct": -40.88,
+        "volume": 4565
+      },
+      {
+        "itemId": 3369,
+        "name": "Thin snail meat",
+        "baselinePrice": 481,
+        "price": 294,
+        "deltaAbs": -187,
+        "deltaPct": -38.92,
+        "volume": 51
+      },
+      {
+        "itemId": 1117,
+        "name": "Bronze platebody",
+        "baselinePrice": 62,
+        "price": 41,
+        "deltaAbs": -21,
+        "deltaPct": -34.68,
+        "volume": 74
+      },
+      {
+        "itemId": 21488,
+        "name": "Mahogany seed",
+        "baselinePrice": 331,
+        "price": 222,
+        "deltaAbs": -109,
+        "deltaPct": -32.93,
+        "volume": 409
+      },
+      {
+        "itemId": 175,
+        "name": "Antipoison(3)",
+        "baselinePrice": 273,
+        "price": 184,
+        "deltaAbs": -89,
+        "deltaPct": -32.6,
+        "volume": 98
+      },
+      {
+        "itemId": 436,
+        "name": "Copper ore",
+        "baselinePrice": 21,
+        "price": 15,
+        "deltaAbs": -6,
+        "deltaPct": -30.95,
+        "volume": 1043
+      },
+      {
+        "itemId": 29177,
+        "name": "Sunlight antelope fur",
+        "baselinePrice": 505,
+        "price": 360,
+        "deltaAbs": -145,
+        "deltaPct": -28.81,
+        "volume": 260
+      },
+      {
+        "itemId": 29889,
+        "name": "Glacial temotli",
+        "baselinePrice": 70318,
+        "price": 50480,
+        "deltaAbs": -19838,
+        "deltaPct": -28.21,
+        "volume": 302
+      },
+      {
+        "itemId": 6055,
+        "name": "Weeds",
+        "baselinePrice": 181,
+        "price": 133,
+        "deltaAbs": -48,
+        "deltaPct": -26.52,
+        "volume": 441
+      },
+      {
+        "itemId": 1718,
+        "name": "Holy symbol",
+        "baselinePrice": 727,
+        "price": 537,
+        "deltaAbs": -190,
+        "deltaPct": -26.15,
+        "volume": 113
+      },
+      {
+        "itemId": 9240,
+        "name": "Sapphire bolts (e)",
+        "baselinePrice": 36,
+        "price": 27,
+        "deltaAbs": -9,
+        "deltaPct": -25,
+        "volume": 9136
+      },
+      {
+        "itemId": 5371,
+        "name": "Willow sapling",
+        "baselinePrice": 467,
+        "price": 363,
+        "deltaAbs": -104,
+        "deltaPct": -22.38,
+        "volume": 676
+      },
+      {
+        "itemId": 1017,
+        "name": "Wizard hat",
+        "baselinePrice": 215,
+        "price": 168,
+        "deltaAbs": -47,
+        "deltaPct": -21.91,
+        "volume": 153
+      },
+      {
+        "itemId": 31942,
+        "name": "Item 31942",
+        "baselinePrice": 1762,
+        "price": 1384,
+        "deltaAbs": -377,
+        "deltaPct": -21.43,
+        "volume": 12634
+      },
+      {
+        "itemId": 1428,
+        "name": "Mithril mace",
+        "baselinePrice": 117,
+        "price": 93,
+        "deltaAbs": -24,
+        "deltaPct": -20.51,
+        "volume": 209
+      },
+      {
+        "itemId": 5935,
+        "name": "Coconut milk",
+        "baselinePrice": 245,
+        "price": 196,
+        "deltaAbs": -49,
+        "deltaPct": -20,
+        "volume": 377
+      },
+      {
+        "itemId": 288,
+        "name": "Goblin mail",
+        "baselinePrice": 212,
+        "price": 170,
+        "deltaAbs": -42,
+        "deltaPct": -19.81,
+        "volume": 76
+      },
+      {
+        "itemId": 1755,
+        "name": "Chisel",
+        "baselinePrice": 348,
+        "price": 279,
+        "deltaAbs": -68,
+        "deltaPct": -19.71,
+        "volume": 84
+      },
+      {
+        "itemId": 1381,
+        "name": "Staff of air",
+        "baselinePrice": 2183,
+        "price": 1768,
+        "deltaAbs": -415,
+        "deltaPct": -19.01,
+        "volume": 101
+      },
+      {
+        "itemId": 54,
+        "name": "Oak shortbow (u)",
+        "baselinePrice": 19,
+        "price": 15,
+        "deltaAbs": -3,
+        "deltaPct": -18.92,
+        "volume": 203
+      },
+      {
+        "itemId": 5982,
+        "name": "Watermelon",
+        "baselinePrice": 16,
+        "price": 13,
+        "deltaAbs": -3,
+        "deltaPct": -18.75,
+        "volume": 6922
+      },
+      {
+        "itemId": 1917,
+        "name": "Beer",
+        "baselinePrice": 92,
+        "price": 76,
+        "deltaAbs": -16,
+        "deltaPct": -17.49,
+        "volume": 3195
+      },
+      {
+        "itemId": 5303,
+        "name": "Dwarf weed seed",
+        "baselinePrice": 898,
+        "price": 743,
+        "deltaAbs": -155,
+        "deltaPct": -17.26,
+        "volume": 537
+      },
+      {
+        "itemId": 13508,
+        "name": "Ensouled abyssal head",
+        "baselinePrice": 3202,
+        "price": 2681,
+        "deltaAbs": -521,
+        "deltaPct": -16.27,
+        "volume": 126
+      },
+      {
+        "itemId": 5298,
+        "name": "Avantoe seed",
+        "baselinePrice": 408,
+        "price": 342,
+        "deltaAbs": -66,
+        "deltaPct": -16.2,
+        "volume": 238
+      },
+      {
+        "itemId": 5313,
+        "name": "Willow seed",
+        "baselinePrice": 93,
+        "price": 79,
+        "deltaAbs": -14,
+        "deltaPct": -15.59,
+        "volume": 296
+      },
+      {
+        "itemId": 1271,
+        "name": "Adamant pickaxe",
+        "baselinePrice": 2346,
+        "price": 1981,
+        "deltaAbs": -365,
+        "deltaPct": -15.58,
+        "volume": 55
+      },
+      {
+        "itemId": 12297,
+        "name": "Black pickaxe",
+        "baselinePrice": 2345,
+        "price": 2049,
+        "deltaAbs": -296,
+        "deltaPct": -12.64,
+        "volume": 84
+      },
+      {
+        "itemId": 11069,
+        "name": "Gold bracelet",
+        "baselinePrice": 283,
+        "price": 248,
+        "deltaAbs": -35,
+        "deltaPct": -12.39,
+        "volume": 530
+      },
+      {
+        "itemId": 31457,
+        "name": "Hemp",
+        "baselinePrice": 982,
+        "price": 863,
+        "deltaAbs": -119,
+        "deltaPct": -12.17,
+        "volume": 235
+      },
+      {
+        "itemId": 2007,
+        "name": "Spice",
+        "baselinePrice": 93,
+        "price": 82,
+        "deltaAbs": -11,
+        "deltaPct": -11.89,
+        "volume": 707
+      },
+      {
+        "itemId": 1438,
+        "name": "Air talisman",
+        "baselinePrice": 204,
+        "price": 180,
+        "deltaAbs": -24,
+        "deltaPct": -11.79,
+        "volume": 378
+      },
+      {
+        "itemId": 8015,
+        "name": "Bones to peaches (tablet)",
+        "baselinePrice": 949,
+        "price": 845,
+        "deltaAbs": -104,
+        "deltaPct": -10.96,
+        "volume": 473
+      },
+      {
+        "itemId": 3363,
+        "name": "Thin snail",
+        "baselinePrice": 685,
+        "price": 610,
+        "deltaAbs": -74,
+        "deltaPct": -10.88,
+        "volume": 97
+      },
+      {
+        "itemId": 806,
+        "name": "Bronze dart",
+        "baselinePrice": 19,
+        "price": 17,
+        "deltaAbs": -2,
+        "deltaPct": -10.53,
+        "volume": 11671
+      },
+      {
+        "itemId": 31916,
+        "name": "Dragon cannonball",
+        "baselinePrice": 1534,
+        "price": 1374,
+        "deltaAbs": -160,
+        "deltaPct": -10.43,
+        "volume": 11337
+      },
+      {
+        "itemId": 32011,
+        "name": "Adamant keel parts",
+        "baselinePrice": 8577,
+        "price": 7701,
+        "deltaAbs": -876,
+        "deltaPct": -10.21,
+        "volume": 210
+      },
+      {
+        "itemId": 1783,
+        "name": "Bucket of sand",
+        "baselinePrice": 10,
+        "price": 9,
+        "deltaAbs": -1,
+        "deltaPct": -10,
+        "volume": 73092
+      },
+      {
+        "itemId": 2355,
+        "name": "Silver bar",
+        "baselinePrice": 101,
+        "price": 91,
+        "deltaAbs": -10,
+        "deltaPct": -9.95,
+        "volume": 3683
+      },
+      {
+        "itemId": 1627,
+        "name": "Uncut jade",
+        "baselinePrice": 101,
+        "price": 91,
+        "deltaAbs": -10,
+        "deltaPct": -9.9,
+        "volume": 2241
+      },
+      {
+        "itemId": 31515,
+        "name": "Umbral frag",
+        "baselinePrice": 5959,
+        "price": 5374,
+        "deltaAbs": -585,
+        "deltaPct": -9.82,
+        "volume": 157
+      },
+      {
+        "itemId": 1609,
+        "name": "Opal",
+        "baselinePrice": 179,
+        "price": 162,
+        "deltaAbs": -17,
+        "deltaPct": -9.78,
+        "volume": 651
+      }
+    ]
+  }
+}
